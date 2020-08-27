@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335902737783",
+    "firebase_url": "https://signindemo-31fbc.firebaseio.com",
+    "project_id": "signindemo-31fbc",
+    "storage_bucket": "signindemo-31fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335902737783:android:6f7f1c7ba45356bcc78d72",
+        "android_client_info": {
+          "package_name": "com.learning.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335902737783-uhqngd8ghcdrcok0tgsf5lv9uhg4gfbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJobyr_T0HPlHUPXpA66u51TfEzlRF_W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335902737783-uhqngd8ghcdrcok0tgsf5lv9uhg4gfbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

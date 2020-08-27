@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094829523902",
+    "firebase_url": "https://mydemo-336eb.firebaseio.com",
+    "project_id": "mydemo-336eb",
+    "storage_bucket": "mydemo-336eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094829523902:android:6e9f0a1c043c5ab914efef",
+        "android_client_info": {
+          "package_name": "com.learning.mydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094829523902-rcehcdfna5tcjpv1evf2odlp1aslgdgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXPZE-ry-lmfntgy-OUcXpW4qrCNJktQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094829523902-rcehcdfna5tcjpv1evf2odlp1aslgdgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

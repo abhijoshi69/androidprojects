@@ -1,0 +1,2 @@
+rootProject.name='GoogleSignInFragment'
+include ':app'

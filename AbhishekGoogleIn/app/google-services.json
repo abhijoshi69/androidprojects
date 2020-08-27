@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161686273287",
+    "firebase_url": "https://abhishekin-b5c95.firebaseio.com",
+    "project_id": "abhishekin-b5c95",
+    "storage_bucket": "abhishekin-b5c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161686273287:android:8ccc1566906194464ad9a2",
+        "android_client_info": {
+          "package_name": "com.learning.abhishekgooglein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161686273287-esb1vp31qk7mp61sj92m7ehcuqdi4o6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.abhishekgooglein",
+            "certificate_hash": "92b84ff24c4fe232d622f06452accd17b4fecc03"
+          }
+        },
+        {
+          "client_id": "161686273287-8imep8uppu8mlmmmq6lo9f829i20c9sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJxx3w1Z4oXc1v7WN1sqP_LEjJ0-gZEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161686273287-8imep8uppu8mlmmmq6lo9f829i20c9sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

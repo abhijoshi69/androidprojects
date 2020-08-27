@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_route"
+    app:startDestination="@id/firstFragment2">
+    <fragment
+        android:id="@+id/firstFragment2"
+        android:name="com.learning.navigatioinuidemo.FirstFragment"
+        android:label="FirstFragment"
+        tools:layout="@layout/fragment_first">
+        <action
+            android:id="@+id/action_firstFragment2_to_secondFragment"
+            app:destination="@id/secondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.learning.navigatioinuidemo.SecondFragment"
+        android:label="SecondFragment"
+        tools:layout="@layout/fragment_second"
+        >
+        <action
+            android:id="@+id/action_secondFragment_to_thirdFragment"
+            app:destination="@id/thirdFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/thirdFragment"
+        android:name="com.learning.navigatioinuidemo.ThirdFragment"
+        android:label="ThirdFragment"
+        tools:layout="@layout/fragment_third">
+        <action
+            android:id="@+id/action_thirdFragment_to_fourthFragment"
+            app:destination="@id/fourthFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fourthFragment"
+        android:name="com.learning.navigatioinuidemo.FourthFragment"
+        android:label="FourthFragment"
+        tools:layout="@layout/fragment_fourth">
+        <action
+            android:id="@+id/action_fourthFragment_to_firstFragment2"
+            app:destination="@id/firstFragment2" />
+    </fragment>
+</navigation>
